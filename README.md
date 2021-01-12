@@ -25,4 +25,4 @@ Apache License 2.0
 ## Tests
 N/A
 
-<iframe src="https://drive.google.com/file/d/1Q0mvUS1CcAee1yTl_5DHpYxIFZz4ULjJ/preview" width="640" height="480"></iframe>
+
